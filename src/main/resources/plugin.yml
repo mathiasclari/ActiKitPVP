@@ -1,0 +1,9 @@
+name: KitPVP
+version: '${project.version}'
+main: net.acticraft.actikitpvp.ActiKitPVP
+api-version: 1.18
+authors: [ PxLib ]
+website: discord.gg/acticraft
+commands:
+  rsd:
+    aliases: [rsdisable]
